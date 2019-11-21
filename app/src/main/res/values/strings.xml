@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FireBaseApp</string>
+    <string-array name="carreras">
+        <item>Desarrollo de software</item>
+        <item>Redes</item>
+        <item>Diseño</item>
+    </string-array>
+
+    <string-array name="materias">
+        <item>Introduccion IoT</item>
+        <item>Desarrollo Web</item>
+        <item>Diseño de Apps</item>
+    </string-array>
+
+    <string name="tema">Ingresa el tema</string>
+    <string name="registro">Registrar el tema</string>
+</resources>
